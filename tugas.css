@@ -1,0 +1,102 @@
+
+<!DOCTYPE html >
+<html lang="en">
+<head>
+  <meta charset="utf-8" >
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <title>Thank you,sulpan!</title>
+   <style type="text/css">
+      ol, ul { 
+     list-style-type: none;
+      }
+	  body {  
+	  background-color: #faf2e4;
+      margin: 0 10%;
+     font-family: sans-serif;
+}
+.header {
+    background-color: #d1633;
+    padding: 20px;
+    text-align: left;
+}
+h1 {
+  text-align: left;
+  font-family: serif;
+  font-weight: normal;
+  text-transform: uppercase;
+  border-bottom: 1px solid #57b1dc;
+  margin-top: 5px;
+}
+article{
+     width:65%;
+     height:330px;
+     float:left;
+
+h2 {
+  color: #d1633c;
+  font-size: 1em;
+}
+p.disclaimer { 
+  border-top: 1px solid #d1633c; 
+  padding-top: 1em;
+}
+   </style>
+</head>
+
+<body>
+    <div class="header">
+        <table align="center"  cellpadding="5" align="center" width="800">
+        <thead>
+        <tr>
+            <td><h3>Site Name</h3></td>
+            <td><a href="#">Categori 1 |</a><a href="#">Categori 2 |</a><a href="#">Categori 3 |</a></td>
+            <td>cart</td>
+        </tr>
+        </thead>
+        </table>
+    </div>
+    <div class="container">
+        <article>
+        <p>order 12345678</p>
+        <h1>THANK YOU,sulpan!</h1>
+        <p>Your Order is confirmed.</p>
+        <p>We have received the following information about your order:</p>
+        <hr width="500" style="2">
+        <h2>Your Information</h2>
+        <table align="center"  cellpadding="5" align="center" width="500">
+            <tr>
+                <td><strong>Name:</strong> <em>empty</em></td>
+                <td><strong>Address:</strong> <em>empty</em></td>
+            </tr>
+            <tr>
+                <td><strong>Telephone number:</strong> <em>empty</em></td>
+                <td><strong>Email Address:</strong> <em>empty</em></td>
+            </tr>
+        </table>
+        <ul>
+        <li><strong>Name:</strong> <em>empty</em></li>
+        <li><strong>Address:</strong> <em>empty</em></li>
+        <li><strong>Telephone number:</strong> <em>empty</em></li>
+        <li><strong>Email Address:</strong> <em>empty</em></li>
+        </ul>
+        <p><strong>Delivery instructions:</strong> <em>empty</em></p>
+
+        <h2>Your pizza</h2>
+
+        <em>Sorry, we did not receive your information. <a href="http://www.blackgoosebistro.com/pizza.html">Try again.</a></em>
+
+        <p class="disclaimer"><small>This site is for educational purposes only. No pizzas will show up at your door.</small></p>
+        </article>
+    <aside>
+        <h2>Hoby</h2>
+          <p>Menggambar</p>
+          <p>rebahan</p>
+        <h2>Pelajaran Favorit</h2>
+          <p>Teknologi</p>
+          <p>Seni</p>
+          <p>bhs.inggris</p>
+       </aside>
+    </div>
+</body>
+</html>
